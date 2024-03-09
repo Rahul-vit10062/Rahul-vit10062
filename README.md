@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1hOIPz_zGtIvf6IApk6j9c&ust=1710056881937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCOp7zY5oQDFQAAAAAdAAAAABAE](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVYwdlFyb1FBZDRJbGtRLVNIcUs0ZTB2Tk5GQXxBQ3Jtc0tsWGc2M0pPRTMwM1U2d19MMFZIVG5uSURZWWlxTVAwOHNyZVlMMEU0bEJMZ2VZbGtVTnVGMVk4d0oxQkNCX0diQzRoOEpnYUxoc0lqMklYY1l4ZkRpN3BVcWVLaDBkelN1N0RHeHhVVUhfbk9PdzNmaw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Express.JS**
 
