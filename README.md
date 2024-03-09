@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1hOIPz_zGtIvf6IApk6j9c&ust=1710056881937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCOp7zY5oQDFQAAAAAdAAAAABAE"></img>
+
 - 🌱 I’m currently learning **Express.JS**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3SjuBc1](https://bit.ly/3SjuBc1)
